@@ -1,6 +1,6 @@
 ### Hi there, I'm André 👋
 
-- 🔭 I’m currently working on Tribunal de Contas de Minas Gerais
+- 🔭 I’m currently working on EVP Connect/ Capgemini Engineering
 <!--  🌱 I’m currently learning React -->
 <!-- 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with ...
